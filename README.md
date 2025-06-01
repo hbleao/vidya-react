@@ -8,7 +8,7 @@
 
 ## ✨ Conceito
 
-> **Vidya é um design system para quem busca controle, clareza e escala.**
+> **Vidya é um design system para quem busca controle, clareza e escalabilidade.**
 
 Nada de estilização mágica, nem componentes ocultos. Cada parte é pensada para ser **visível, previsível e extensível**.
 
