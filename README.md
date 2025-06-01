@@ -38,7 +38,7 @@ Nada de estilização mágica, nem componentes ocultos. Cada parte é pensada pa
 ## 📦 Instalação
 
 ```bash
-pnpm add @vidya/ui
+npm add @vidya/ui
 ```
 
 > Requer Sass configurado no bundler do seu projeto.
